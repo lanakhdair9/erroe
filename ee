@@ -1,0 +1,15 @@
+172.16.107.32 | UNREACHABLE! => {
+    "changed": false,
+    "msg": "Failed to connect to the host via ssh: studentt@172.16.107.32: Permission denied (publickey,password).",
+    "unreachable": true
+}
+172.16.107.33 | UNREACHABLE! => {
+    "changed": false,
+    "msg": "Failed to connect to the host via ssh: studentt@172.16.107.33: Permission denied (publickey,password).",
+    "unreachable": true
+}
+172.16.107.36 | UNREACHABLE! => {
+    "changed": false,
+    "msg": "Failed to connect to the host via ssh: studentt@172.16.107.36: Permission denied (publickey,password).",
+    "unreachable": true
+}
